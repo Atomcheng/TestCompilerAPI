@@ -1,0 +1,8 @@
+package jjc.code;
+
+public class CodeTest {
+    public String s = "使用编译API进行编译，并从类文件进行加载";
+    public static void main(String[] args){
+        System.out.println("使用编译API进行编译");
+    }
+}
